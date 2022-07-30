@@ -9,7 +9,8 @@
         "applicationName": "Theia Browser Example",
         "preferences": {
           "files.enableTrash": false
-        }
+        },
+        "defaultLocale": "zh-cn"
       }
     }
   },
